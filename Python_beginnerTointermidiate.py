@@ -3,10 +3,12 @@
 
 #functions and modules
 import math
+print("test commit message")
 
 
 """
 #övningar 2
+
 print("2021") #prints string
 print(2021) #prints int"
 print("2021-12-24") #prints string
